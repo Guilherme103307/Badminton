@@ -1,0 +1,86 @@
+body
+	{
+		
+   		padding:0;
+   		background-image: url("bad.png");
+	  
+    background-repeat: no-repeat;
+    background-size:100%;
+    bottom: 0;
+    color: white;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+	
+	    
+	}
+
+.cabecalho
+	{
+		background-color: white;
+		color: #000;
+		
+	}
+
+.img
+	{
+		width: 80px;
+		height:70px;
+		margin-top: 120px;
+		margin-left: 400px;
+	}
+
+h1
+	{
+		color: white;
+		font-size: 80px;
+		display: inline;
+		font-family: Baloo, sans-serif;
+		font-style: italic;
+	
+	}
+
+
+h2
+	{	
+		color: white;
+		margin-top: 60px;
+		margin-left: 200px;
+		margin-right: 200px;
+		font-size: 20px;
+		text-align: center;
+		font-style: italic;
+		font-family: Arial, Helvetica, sans-serif;
+		font-weight: normal;
+	}
+
+.btn1
+	{
+		margin-left: 470px;
+		width: 200px;
+ 		height: 35px;
+   		background-color: #008B8B;
+ 		border: none;
+ 		margin-bottom: 100px;
+	}
+
+.btn2
+	{		
+   		background-color:#008B8B;
+   		background-repeat: no-repeat;
+   		border: none;
+ 		width: 200px;
+ 		height: 35px;
+ 		margin-bottom: 100px;
+
+	}
+
+a
+	{
+		text-decoration:none;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 15px;
+		color: white; 
+
+	}
